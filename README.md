@@ -1,4 +1,4 @@
 # hello-world
 the one
 
-Hello world the first code by me on Github.
+Hello world one of the first code by me on Github.
